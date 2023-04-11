@@ -1,0 +1,1125 @@
+@media(max-width:1700px){
+	.header__content {
+		width: 95%;
+	}
+	.header__inner {
+		width: 90%;
+	}
+	.header__logo img {
+		padding-left: 20px;
+	}
+
+
+	/* .portfolio_container,
+	.portfolio_container-rent,
+	.portfolio_container-skill {
+		width: 90%;
+		padding: 0 5vw;
+		margin-left: 0;
+	}
+	.projects_subtitle {
+		padding: 0 5vw;
+		margin-top: 40px;
+	} */
+}
+
+
+@media(max-width:1528.99px) {
+	/* .projects_subtitle {
+		padding: 0 10vw;
+	}
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		left: 50%;
+	} */
+}
+
+
+@media(max-width:1523.99px){
+	.projects_subtitle {
+		padding: 0 10vw;
+		margin-top: 40px;
+	}
+	.portfolio_container,
+	.portfolio_container-rent,
+	.portfolio_container-skill {
+		width: 80%;
+		margin: 0 auto;
+	}
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		left: 50%;
+		transform: translateX(-18%);
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 363px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 363px;	
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		width: 378px;
+	}
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 363px;
+	}
+
+
+
+	.blog .blog_posts-list {
+		justify-content: center;
+	}
+}
+
+@media(max-width:1523.99px) {
+	.blog .blog_posts-list {
+		justify-content: flex-start;
+	}
+}
+
+@media(max-width:1489.99px) {
+	.blog .blog_posts-list {
+		justify-content: center;
+	}
+}
+
+
+@media(max-width:1380.99px) {
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		left: 50%;
+		transform: translateX(-29%);
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 363px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 363px;	
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt  {
+		width: 378px;
+	}
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 363px;
+	}
+	
+	
+
+
+	.blog .blog_posts-list {
+		justify-content: center;
+	}
+}
+@media(max-width:1289.99px) {
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		left: 50%;
+		transform: translateX(-44%);
+	}
+}
+
+
+@media(max-width:1153.99px) {
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		left: 50%;
+		transform: translateX(0%);
+	}
+}
+
+
+@media(max-width:1148.99px) {
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		width: 308px;
+		left: 7%;
+		transform: translateX(22%);
+		min-height: 545px;
+	}
+	.portfolio_item-photo,
+	.portfolio_item_rent-photo,
+	.portfolio_item_skill-photo {
+		width: 100%;
+		height: 220px;
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 287px;
+		height: 50px;
+		font-size: 17px;
+		padding: 20px 5px 0 15px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 287px;
+		font-size: 14px;
+		font-weight: 500;
+		color: rgb(43, 43, 43);
+		padding: 10px 5px 0 15px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		width: 278px;
+		height: 130px;
+		padding: 25px 15px 15px 15px;
+		text-align: justify;
+		font-size: 14px;
+	}
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 283px;
+		padding: 0 5px 0 20px;
+		font-size: 19px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 267px;
+		height: 40px;
+		font-size: 14px;
+	}
+}
+@media(max-width:1023.99px){
+    .partners-list {
+        width: 160px;
+        height: 100%;
+        margin-right: 0;
+        padding: 0 40px;
+        margin-top: 10%;
+        margin-bottom: 50px;
+    }
+	.header__content {
+		width: 80%;
+		position: absolute;
+		z-index: 3;
+		text-align: center;
+		color: #fff;
+		font-weight: 500;
+		top: 45%;
+		transform: translateY(-45%);
+		padding-left: 75px;
+	}
+	.header__logo img {
+		max-width: 100%;
+		padding-left: 20px;
+	}
+	.header__inner{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		position: absolute;
+		height: 150px;
+	  	width: 90%;
+	}
+
+
+
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		width: 308px;
+		left: 7%;
+		transform: translateX(6%);
+		min-height: 545px;
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 288px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr  {
+		width: 288px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 125px;
+	}
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 283px;
+	}
+}
+
+@media(max-width:1009.99px){
+	.blog .blog_posts-list {
+		display: flex;
+		justify-content: center;
+	}
+}
+
+@media(max-width:935.99px){
+	.header__content {
+		width: 80%;
+		position: absolute;
+		z-index: 3;
+		text-align: center;
+		color: #fff;
+		font-weight: 500;
+		top: 45%;
+		transform: translateY(-45%);
+		padding-left: 75px;
+	}
+	.header__logo img {
+		max-width: 100%;
+		padding-left: 20px;
+	}
+	.header__inner{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		position: absolute;
+		height: 150px;
+	  	width: 90%;
+	}
+
+
+
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		left: 5px;
+		transform: none;
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 288px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 288px;
+	}
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 283px;
+	}
+}
+
+@media(max-width:903px){
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-10%);
+		width: 342px;
+		left: 50%;	
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 322px;
+		font-size: 17px;
+	}
+	.projects_subtitle {
+		text-align: center;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 323px;
+		font-size: 14px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 313px;
+		font-size: 14px;
+	  }
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 317px;
+		font-size: 17px;
+		margin-bottom: 55px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn  {
+		width: 299px;
+		font-size: 12px;
+	}
+}
+
+@media(max-width:898.99px) {
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-17%);
+		width: 342px;
+		left: 50%;	
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 322px;
+		font-size: 17px;
+	}
+	.projects_subtitle {
+		text-align: center;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 323px;
+		font-size: 14px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 313px;
+		font-size: 14px;
+	  }
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 317px;
+		font-size: 17px;
+		margin-bottom: 55px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 299px;
+		font-size: 12px;
+	}
+}
+
+
+@media(max-width:839.99px){
+	body.lock{
+		overflow: hidden;
+	}
+	.header{
+		position: relative;
+		width: 100%;
+		
+		top: 0;
+		left: 0;
+		z-index: 50;
+		padding: 0;
+	}
+	.header::before{
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: #fff;
+		z-index: 2;
+		box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.61);
+	}
+	.header__burger{
+		display: block;
+		position: relative;
+		width: 40px;
+		height: 30px;
+		position: relative;
+		z-index: 3;
+	}
+	.header__burger.active::before{
+		width: 100%;
+		transition: all 0.3s ease-in-out;
+	}
+	.header__burger.active::after{
+		width: 50%;
+		transition: all 0.3s ease-in-out;
+	}
+	.header__burger.active span{
+		width: 75%;
+		display: inline-block;
+		transition: all 0.3s ease-in-out;
+	}
+	.header__burger::after,
+	.header__burger::before{
+		content: '';
+		background-color: #ffffff;
+		position: absolute;
+		height: 4px;
+		right: 0;
+		transition: all 0.3s ease-in-out;
+	}
+	.header__burger::before{
+		top: 0;
+		width: 50%;
+	}
+	.header__burger span {
+		position: absolute;
+		background-color: #ffffff;
+		width: 75%;
+		height: 4px;
+		top: 13px;
+		right: 0;
+		display: inline-block;
+		transition: all 0.3s ease-in-out;
+	}
+	.header__burger::after{
+		bottom: 0;
+		width: 100%;
+	}
+	.header__inner{
+		height: 100px;
+	}
+	.header__logo{
+		flex: 0 0 100px;
+		padding-left: 20px;
+	}
+	.menu{
+		position: fixed;
+		top: -141%;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.596);
+		padding: 130px 15px 20px 15px;
+		transition: all 0.3s ease-in-out;
+		overflow: auto;
+	}
+	.menu.active{
+		top: 0;
+	}
+	.menu__list{
+		display: block;
+	}
+	.menu__list li{
+		margin: 0 100px 30px 0;
+	}
+	.menu__item{
+		text-align: right;
+	}
+	.menu__item + .menu__item{
+		margin-left: 0px;
+	}
+	.menu__link{
+		font-size: 25px;
+	}
+	.basket__image{
+		margin-left: 24px;
+	}
+	.header__content {
+		width: 90%;
+		padding: 0 20px;
+	}
+
+	.video-bg {
+		height: 100vh;
+		width: 100%;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		position: relative;
+	}
+	  
+	.video-bg video {
+		height: 100vh;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		object-fit: cover;
+		z-index: 2;
+	}
+	
+	.video-bg__content {
+		z-index: 2;
+	}
+	
+	.effects {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 2;
+		width: 100%;
+		height: 100vh;
+		background-color: rgba(0,0,0,0.6);
+	}
+
+
+
+
+
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-17%);
+		width: 342px;
+		left: 50%;	
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 322px;
+		font-size: 17px;
+	}
+	.projects_subtitle {
+		text-align: center;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 323px;
+		font-size: 14px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 313px;
+		font-size: 14px;
+	  }
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 317px;
+		font-size: 17px;
+		margin-bottom: 55px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 299px;
+		font-size: 12px;
+	}
+}
+
+@media(max-width:767.99px){
+	.header__content h1 {
+		font-size: 65px;
+	}
+	.header__content p {
+		font-size: 13px;
+	}
+	.offer {
+		/* padding: 20px; */
+		max-width: 591px;
+		object-fit: contain;
+	}
+	.partners-img {
+		width: 150px;
+	}
+
+
+
+
+	.portfolio_container,
+	.portfolio_container-rent,
+	.portfolio_container-skill {
+		margin: 0 auto;
+	}
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-31%);
+		width: 356px;
+		left: 50%;	
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 312px;
+		font-size: 17px;
+	}
+	.projects_subtitle {
+		text-align: center;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 313px;
+		font-size: 13px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 303px;
+		font-size: 13px;
+	}
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 308px;
+		font-size: 17px;
+		margin-bottom: 50px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 306px;
+		font-size: 12px;
+	}
+}
+
+@media(max-width:690px) {
+	.breadcrumbs_title {
+		font-size: 44px;
+	}
+	.projects_subtitle {
+		padding: 0 7vw;
+		margin-top: 50px;
+		font-size: 28px;
+		text-align: center;
+	}
+	.portfolio_container,
+	.portfolio_container-rent,
+	.portfolio_container-skill  {
+		margin: 0 auto;
+	}
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-33%);
+		width: 333px;
+		left: 50%;	
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 313px;
+		font-size: 18px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 313px;
+		font-size: 14px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 303px;
+		font-size: 14px;
+	  }
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 258px;
+		font-size: 17px;
+		margin-bottom: 50px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 288px;
+		font-size: 12px;
+	}
+
+}
+
+@media(max-width:590px){
+	.header__content {
+		width: 88%;
+		padding: 0 20px 0 10px;
+	}
+	.header__content h1 {
+		font-size: 48px;
+	}
+	.header__content p {
+		font-size: 13px;
+
+	}
+	.offer {
+		width: 380px;
+	}
+	.offer__category {
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+		margin-bottom: 50px;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.offer_card {
+		width: 370px;
+		flex: 0 auto;
+		/* padding-left: 10px; */
+		padding-right: 5px;
+		margin-bottom: 50px;
+	}
+	.offer_image {
+		width: 350px;
+	}
+	.offer_info {
+		height: 160px;
+	}
+	.benefits {
+		width: 100%;
+	}
+	.benefits__list {
+		width: 380px;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+		margin-right: 34px;
+	}
+	.benefits__descr {
+		width: 300px;
+	}
+	.partners-company {
+		margin-top: 120px;
+	}
+	.partners-img {
+		width: 150px;
+	}
+	.footer {
+		max-width: 100%;
+	}
+	.footer__logo {
+		width: 150px;
+	}
+	.footer__info {
+		width: 380px;
+		height: 420px;
+	}
+	.footer__developer {
+		font-size: 10px;
+	}
+
+
+
+
+
+	.breadcrumbs_title {
+		font-size: 36px;
+	}
+	.projects_subtitle {
+		padding: 0;
+		margin-top: 50px;
+		font-size: 25px;
+		text-align: center;
+	}
+	.portfolio_filters li,
+	.portfolio_filters-rent li,
+	.portfolio_filters-skill li {
+		font-size: 16px;
+	}
+	.portfolio_container,
+	.portfolio_container-rent,
+	.portfolio_container-skill {
+		margin: 0 auto;
+	}
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-40%);
+		width: 285px;
+		left: 50%;	
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title  {
+		width: 264px;
+		font-size: 15px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 264px;
+		font-size: 13px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 254px;
+		font-size: 13px;
+	  }
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 258px;
+		font-size: 17px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 243px;
+		font-size: 12px;
+	}
+
+
+
+
+	.about_img {
+		height: 530px;
+	}
+}
+
+
+
+@media(max-width:477.99px) {
+	.header__content {
+		padding: 0 20px 0 20px;
+	}
+
+
+
+	.portfolio_container,
+	.portfolio_container-rent,
+	.portfolio_container-skill {
+		margin: 0 auto;
+	}
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-50%);
+		width: 285px;
+		left: 50%;
+	}
+	.breadcrumbs_title {
+		font-size: 33px;
+	}
+	.projects_subtitle {
+		font-size: 24px;
+	}
+	.portfolio_filters li,
+	.portfolio_filters-rent li,
+	.portfolio_filters-skill li {
+		font-size: 16px;
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 264px;
+		font-size: 15px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 264px;
+		font-size: 13px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 254px;
+		font-size: 13px;
+	  }
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 219px;
+		font-size: 17px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 243px;
+		font-size: 12px;
+	}
+
+
+
+	.about_img {
+		height: 420px;
+	}
+
+	.about_presentation h2 {
+		font-size: 39px;
+		margin: 10px;
+	}
+	.blog .blog_wrapper {
+		padding: 10px;
+	}
+}
+
+
+
+@media(max-width:424.99px){
+	.header__content {
+		padding: 0 20px 0 20px;
+	}
+	.header__content h1 {
+		font-size: 37px;
+	}
+	.header__content p {
+		font-size: 12px;
+	  }
+	.header__logo img {
+		padding-left: 5px;
+	}
+	.header__burger {
+		right: 10px;
+	}
+
+	.offer {
+		display: none;
+	}
+
+	.benefits {
+		display: none;
+	}
+
+	.footer__info {
+		width: 320px;
+		height: 420px;
+	}
+
+
+
+
+	.container {
+		padding: 0;
+	}
+	.breadcrumbs_title {
+		font-size: 22px;
+	}
+	.breadcrumbs_subtitle {
+		font-size: 15px;
+		margin-top: 14px;
+	}
+	.breadcrumbs_subtitle li {
+		font-size: 14px;
+	  }
+	.projects_subtitle {
+		margin-top: 40px;
+		font-size: 20px;
+	}
+	.portfolio_filters,
+	.portfolio_filters-rent,
+	.portfolio_filters-skill {
+		display: flex;
+		flex-direction: column;
+	}
+	.portfolio_filters li,
+	.portfolio_filters-rent li,
+	.portfolio_filters-skill li {
+		margin: 25px 10px 0 10px;
+	}
+	.portfolio_container,
+	.portfolio_container-rent,
+	.portfolio_container-skill {
+		margin: 0 auto;
+	}
+	.portfolio_item-info,
+	.portfolio_item_rent-info,
+	.portfolio_item_skill-info {
+		transform: translateX(-60%);
+		width: 245px;
+		left: 50%;	
+	}
+	.portfolio_item-photo,
+	.portfolio_item_rent-photo,
+	.portfolio_item_skill-photo {
+		width: 100%;
+		height: 175px;
+	}
+	.portfolio_item-title,
+	.portfolio_item_rent-title,
+	.portfolio_item_skill-title {
+		width: 225px;
+		font-size: 15px;
+	}
+	.portfolio_item-descr,
+	.portfolio_item_rent-descr,
+	.portfolio_item_skill-descr {
+		width: 224px;
+		font-size: 13px;
+	}
+	.portfolio_item-txt,
+	.portfolio_item_rent-txt,
+	.portfolio_item_skill-txt {
+		height: 120px;
+		width: 214px;
+		font-size: 13px;
+	}
+	.portfolio_item-price,
+	.portfolio_item_rent-price,
+	.portfolio_item_skill-price {
+		width: 219px;
+		font-size: 17px;
+	}
+	.portfolio_item_btn,
+	.portfolio_item_rent_btn,
+	.portfolio_item_skill_btn {
+		width: 212px;
+		font-size: 12px;
+	}
+
+
+
+
+
+	.row {
+		margin-top: 0;
+	}
+	.about_img {
+		width: 300px;
+		height: 300px;
+	}
+	.about_img img {
+		padding-right: 0;
+	}
+	.about_presentation h2 {
+		font-size: 35px;
+	}
+	.about .our-story h4 {
+		font-size: 15px;
+	}
+	.about .our-story h3 {
+		font-size: 25px;
+	}
+	.about .our-story p {
+		font-size: 14px;
+	}
+	.counter .counter_wrapper {
+		padding-top: 5px;
+	}
+	.counter .counter-item {
+		width: 230px;
+	}
+	.testimonials .section-header h2 {
+		padding-top: 5px;
+	}
+
+
+
+	.blog .blog_wrapper {
+		padding: 10px;
+	}
+	.blog .post-item {
+		width: 300px;
+		min-height: 610px;
+	}
+	.post-item .post-img img {
+		width: 300px;
+		height: 200px;
+	}
+}
